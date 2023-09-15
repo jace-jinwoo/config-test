@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+# React App For Testing Preferences
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is intended to practice installing and editing the packages such as Webpack, Babel, and ESLint that make up the development environment.
 
-## Available Scripts
+## ESLint & Prettier
+
+1. Intro
+
+- ESLint statically analyzes your code to quickly find problems. It is built into most text editors and you can run ESLint as part of your continuous integration pipeline.
+- ESLint is a tool that automatically detects code violating coding conventions or anti-patterns
+
+2. Install ESLint & Airbnb style guide
+
+-
 
 In the project directory, you can run:
 
